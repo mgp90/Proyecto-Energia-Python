@@ -6,7 +6,7 @@ Consta de:
 
 -Enunciado del Proyecto donde se entregan las pautas para su realizacion.
 -Datos, 3 archivos:
-  # precio_md: datos de precios horarios de electricidad.
+  * precio_md: datos de precios horarios de electricidad.
   # preveol: datos de generación eólica prevista para cada hora.
   # prvdem: datos de demanda prevista para cada hora
 -Proyecto realizado en Databricks
