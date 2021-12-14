@@ -12,4 +12,4 @@ Consta de:
 - Proyecto realizado en Databricks
 - Proyecto exportado en HTML
 
-Con la finalidad de encontrar una campaña telefonica que "retenga" mejor a los clientes, dependiendo del incentivo que se les ofrece.
+Con la finalidad de predecir el precio de mercado electrico del dia siguiente.
